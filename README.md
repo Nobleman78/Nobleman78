@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nobleman78&label=Profile%20views&color=0e75b6&style=flat" alt="nobleman78" /> </p>
 
-<h3 align="left">Connect with me: jesminchakma39@gmail</h3>
+<h3 align="left">Connect with me: jesminchakma39@gmail.com</h3>
 <p align="left">
 </p>
 
