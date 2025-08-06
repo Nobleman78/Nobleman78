@@ -1,15 +1,7 @@
 <h1>👋 Hi, I'm Jesmin Chakma</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nobleman78&label=Profile%20views&color=0e75b6&style=flat" alt="nobleman78" />
-</p>
-
----
-
 ### 📫 Connect with me
 📧 **Email:** [jesminchakma39@gmail.com](mailto:jesminchakma39@gmail.com)
-
----
 
 ### 🛠️ Languages & Tools
 <p align="left">
