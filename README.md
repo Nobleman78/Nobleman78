@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Jesmin Chakma</h1>
-<h3 align="center">💻 A Passionate Frontend Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">💻 A passionate frontend-focused developer from Bangladesh 🇧🇩, who also handles backend development on a project basis.</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nobleman78&label=Profile%20views&color=0e75b6&style=flat" alt="nobleman78" />
