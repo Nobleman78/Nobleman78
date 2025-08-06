@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Jesmin Chakma</h1>
-<h3 align="center">💻 A passionate frontend-focused developer from Bangladesh 🇧🇩, who also handles backend development on a project basis.</h3>
+<h3 align="center">💻 A passionate frontend-focused developer from Bangladesh , who also handles backend development on a project basis.</h3>
 
 
 <p align="center">
